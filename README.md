@@ -1,2 +1,2 @@
 # the-gnomon-workshop
-Creating digital art through The Gnomon Workshop.
+Cultivating interest in creating digital art through The Gnomon Workshop. 
