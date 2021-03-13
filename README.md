@@ -1,2 +1,2 @@
 # The-Gnomon-Workshop
-Cultivating interest in creating digital art through the Gnomon art school online.
+The Gnomon Workshop is an online course platform by the Gnomon school of arts. 
